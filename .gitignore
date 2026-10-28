@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.log
+.DS_Store
+outputs/
+data/
+checkpoints/
+features/
+config.local.json
+

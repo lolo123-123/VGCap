@@ -1,0 +1,52 @@
+{
+  "16_frame_video": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 8,
+      "source_frame_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7],
+      "start": 0.0,
+      "end": 1.0
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 8,
+      "end_frame": 16,
+      "source_frame_indices": [8, 9, 10, 11, 12, 13, 14, 15],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7],
+      "start": 1.0,
+      "end": 2.0
+    }
+  ],
+  "64_frame_video": [
+    {
+      "segment_id": 0,
+      "start_frame": 0,
+      "end_frame": 16,
+      "source_frame_indices": [0, 2, 4, 6, 8, 10, 12, 14],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "segment_id": 1,
+      "start_frame": 16,
+      "end_frame": 32,
+      "source_frame_indices": [16, 18, 20, 22, 24, 26, 28, 30],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "segment_id": 2,
+      "start_frame": 32,
+      "end_frame": 48,
+      "source_frame_indices": [32, 34, 36, 38, 40, 42, 44, 46],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "segment_id": 3,
+      "start_frame": 48,
+      "end_frame": 64,
+      "source_frame_indices": [48, 50, 52, 54, 56, 58, 60, 62],
+      "model_frame_ids": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

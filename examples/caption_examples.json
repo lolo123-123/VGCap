@@ -1,0 +1,46 @@
+[
+  {
+    "video_name": "Gen-2/A clever monkey swings from branch to branch.mp4",
+    "source_prompt": "A clever monkey swings from branch to branch",
+    "global_caption": "A clever monkey hangs from a rope attached to a tree branch",
+    "segment_captions": [
+      "A monkey hangs from a rope attached to a tree branch in a forest.",
+      "A monkey hangs from a rope attached to a tree branch in a forest.",
+      "A monkey swings on a rope in the forest, showcasing its agility and strength.",
+      "A monkey swings on a rope attached to a tree branch in a forest."
+    ]
+  },
+  {
+    "video_name": "Gen-2/An engineer is repairing a tall wind turbine.mp4",
+    "source_prompt": "An engineer is repairing a tall wind turbine",
+    "global_caption": "An engineer is repairing a tall wind turbine",
+    "segment_captions": [
+      "A technician inspects a wind turbine blade.",
+      "A worker inspects a wind turbine's blades and nacelle.",
+      "A technician inspects a wind turbine blade.",
+      "A technician works on a wind turbine blade."
+    ]
+  },
+  {
+    "video_name": "Text2Video-Zero/A group of elephants is enjoying a refreshing drink by the waterhole.mp4",
+    "source_prompt": "A group of elephants is enjoying a refreshing drink by the waterhole",
+    "global_caption": "Two elephants are enjoying a refreshing drink at a waterhole",
+    "segment_captions": [
+      "Two elephants are drinking water from a river.",
+      "Elephants are drinking water from a river in the wild.",
+      "Two elephants are drinking water from a pond.",
+      "Elephants are drinking water from a pond in the wild."
+    ]
+  },
+  {
+    "video_name": "Gen-2/A scientist is conducting a chemical reaction in the laboratory.mp4",
+    "source_prompt": "A scientist is conducting a chemical reaction in the laboratory",
+    "global_caption": "A scientist is conducting a chemical reaction in the laboratory",
+    "segment_captions": [
+      "A scientist examines a red liquid in a laboratory setting, surrounded by various glassware and scientific equipment.",
+      "A scientist examines a red liquid in a laboratory setting, surrounded by various glassware and scientific equipment.",
+      "A scientist pours a liquid into a flask in a laboratory setting, surrounded by various glassware and equipment.",
+      "A scientist examines a test tube in a laboratory setting, surrounded by various glassware and scientific equipment."
+    ]
+  }
+]
